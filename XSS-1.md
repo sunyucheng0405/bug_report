@@ -1,8 +1,4 @@
-# Simple Mobile Comparison Website v1.0 has stored cross-site scripting
-
 BUG_Author:sunyucheng
-
-Website source code address: https://www.sourcecodester.com/php/15186/simple-mobile-comparison-website-phpoop-free-source-code.html
 
 Vulnerability url: /mcw/classes/Master.php?f=save_field
 
